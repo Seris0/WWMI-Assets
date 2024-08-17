@@ -1,12 +1,12 @@
 {
-    "vb0_hash": "77975500",
+    "vb0_hash": "5f8aac45",
     "cb4_hash": "f02baf77",
-    "vertex_count": 69618,
+    "vertex_count": 69517,
     "index_count": 285591,
     "components": [
         {
             "vertex_offset": 0,
-            "vertex_count": 9696,
+            "vertex_count": 9702,
             "index_offset": 0,
             "index_count": 40269,
             "vg_offset": 0,
@@ -59,8 +59,8 @@
             }
         },
         {
-            "vertex_offset": 9696,
-            "vertex_count": 4516,
+            "vertex_offset": 9702,
+            "vertex_count": 4409,
             "index_offset": 40269,
             "index_count": 18657,
             "vg_offset": 44,
@@ -83,7 +83,7 @@
             }
         },
         {
-            "vertex_offset": 14212,
+            "vertex_offset": 14111,
             "vertex_count": 2723,
             "index_offset": 58926,
             "index_count": 11904,
@@ -94,7 +94,7 @@
             }
         },
         {
-            "vertex_offset": 16935,
+            "vertex_offset": 16834,
             "vertex_count": 18037,
             "index_offset": 70830,
             "index_count": 81513,
@@ -205,7 +205,7 @@
             }
         },
         {
-            "vertex_offset": 34972,
+            "vertex_offset": 34871,
             "vertex_count": 12523,
             "index_offset": 152343,
             "index_count": 46512,
@@ -284,12 +284,12 @@
             }
         },
         {
-            "vertex_offset": 47495,
+            "vertex_offset": 47394,
             "vertex_count": 21664,
             "index_offset": 198855,
             "index_count": 84606,
             "vg_offset": 229,
-            "vg_count": 48,
+            "vg_count": 47,
             "vg_map": {
                 "0": 112,
                 "1": 75,
@@ -300,64 +300,63 @@
                 "6": 67,
                 "7": 68,
                 "8": 65,
-                "9": 101,
-                "10": 70,
-                "11": 84,
+                "9": 70,
+                "10": 239,
+                "11": 240,
                 "12": 241,
                 "13": 242,
-                "14": 243,
+                "14": 64,
                 "15": 244,
-                "16": 64,
-                "17": 246,
-                "18": 247,
-                "19": 73,
-                "20": 74,
-                "21": 99,
-                "22": 108,
-                "23": 109,
-                "24": 72,
-                "25": 45,
-                "26": 85,
-                "27": 87,
-                "28": 88,
-                "29": 89,
+                "16": 245,
+                "17": 73,
+                "18": 74,
+                "19": 99,
+                "20": 108,
+                "21": 109,
+                "22": 72,
+                "23": 101,
+                "24": 85,
+                "25": 87,
+                "26": 88,
+                "27": 89,
+                "28": 84,
+                "29": 258,
                 "30": 259,
                 "31": 260,
                 "32": 261,
-                "33": 262,
-                "34": 86,
+                "33": 86,
+                "34": 263,
                 "35": 264,
                 "36": 265,
                 "37": 266,
-                "38": 267,
-                "39": 98,
-                "40": 110,
-                "41": 96,
+                "38": 98,
+                "39": 110,
+                "40": 96,
+                "41": 270,
                 "42": 271,
                 "43": 272,
                 "44": 273,
                 "45": 274,
-                "46": 275,
-                "47": 276
+                "46": 275
             }
         },
         {
-            "vertex_offset": 69159,
+            "vertex_offset": 69058,
             "vertex_count": 434,
             "index_offset": 283461,
             "index_count": 2028,
-            "vg_offset": 277,
+            "vg_offset": 276,
             "vg_count": 1,
             "vg_map": {
                 "0": 3
             }
         },
         {
-            "vertex_offset": 69593,
+            "vertex_offset": 69492,
             "vertex_count": 25,
             "index_offset": 285489,
             "index_count": 102,
-            "vg_offset": 278,
+            "vg_offset": 277,
             "vg_count": 4,
             "vg_map": {
                 "0": 67,
@@ -368,9 +367,9 @@
         }
     ],
     "shapekeys": {
-        "offsets_hash": "d8decbca",
-        "scale_hash": "fd9483ca",
-        "vertex_count": 35052,
+        "offsets_hash": "1ccb8008",
+        "scale_hash": "060f5303",
+        "vertex_count": 37134,
         "dispatch_y": 1096,
         "checksum": 2156
     }
